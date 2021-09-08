@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "548036109497",
+    "project_id": "tracker-app-kj",
+    "storage_bucket": "tracker-app-kj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548036109497:android:f5e02ca22b54991543a768",
+        "android_client_info": {
+          "package_name": "com.example.tracker_app_kj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "548036109497-fpskb167j762e916164nq707q9brk3nd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tracker_app_kj",
+            "certificate_hash": "420d84e091b3ff6340eeaed0fb8c531b06ab826f"
+          }
+        },
+        {
+          "client_id": "548036109497-r792ls56che3s8i399hlmsoet0obd5p9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTzijYLMdGbmBbdcCaKLslb1k8a2kDVO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "548036109497-r792ls56che3s8i399hlmsoet0obd5p9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
