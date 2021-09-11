@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:tracker_app_kj/app/sign_in/sign_in_page.dart';
+import 'package:tracker_app_kj/app/landing_page.dart';
+import 'package:tracker_app_kj/services/auth.dart';
 
 void main() {
   runApp(MyApp());
@@ -13,7 +14,9 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.indigo,
       ),
-      home: SignInPage(),
+      home: LandingPage(
+        auth: Auth(),
+      ),
     );
   }
 }
